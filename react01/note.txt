@@ -1,0 +1,75 @@
+React =   java script  library  for   building  use r  interfaces
+
+
+
+library = collection  pre  written  code
+that   u  c an  use  in your  application
+
+//meta face book
+//frame work  proper  set up  of  a  project
+angular
+
+//creating a  react  based  project
+
+create-react-application
+//vite  --  tool used  to  install react  based  project   mantain  and  compile 
+
+
+npm  create vite@latest
+
+///public  folder   where  you  keep  your   assets  like  images 
+
+//git ignore  file  --    wher  u  write the  files   and  
+folders   u  want  dont  want  to  upload  to  github .
+
+//index.html  ==  your  main  file
+//wen u  install  a  react  project  u   by  default   get  a  index.html  component
+and  a   app   component
+
+app  is  by  default  loaded  on  index.html
+
+every component  to   write  should  be  loaded  on  app  component
+directly   or  indirectly
+
+index.html  is  loaded  on  the  browser  for  outputs
+
+single  page   application = because  theres  only   one  single  html  file 
+
+//react  based  apllications  are  called single  page   applications.
+
+//package.json  configuration of  ur  project  your dependecies   read  by  servers  to  understand  whats  going  on 
+//track  ur  project  dependencies
+
+//vite config.js  where  u  mention plugins
+//env  config ..
+//server  configuration
+//env  settings.
+
+README.md   commenting  file  
+doesn't  affect  dev nor  production
+
+wen  u  run  npm install  a  new  folder  called  node.modules   is  added in  ur  project  
+//project   where all  the  liblaries are  theres
+
+//where all  libraries  presides
+
+//packagelock.json   details  of  every  libraies  ur  project  is  using ..
+its  more  descriptive ..extra  info  links  versions 
+descriptive   configuration  file
+
+
+//src   folder  where  your   components
+presides
+
+//main.jsx   responsible  for  loading  components
+
+//index.css   is  global   css  for  your  whole  application 
+
+jsx   stands   for   javscript xml
+//we  cant   html  code  in  javscript
+
+//internally  allows  u  to  write  html  code  in  js
+
+<div> in  jsx file =   browser  dont  know  what jsx  is 
+internally document.createElement("div")
+

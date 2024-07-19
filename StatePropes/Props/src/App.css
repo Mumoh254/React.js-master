@@ -1,0 +1,16 @@
+.product {
+  width: fit-content;
+  padding: 20px;
+  background: #eeeeee;
+  margin: 2px;
+}
+
+.user {
+  background: rgb(116, 95, 95);
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #eeeeee;
+
+}
